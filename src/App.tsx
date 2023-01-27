@@ -1,5 +1,7 @@
+import Home from "./screen/home";
+
 function App() {
-  return <div> HELLO APP MAMOUN</div>;
+  return <Home />;
 }
 
 export default App;
